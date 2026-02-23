@@ -1,0 +1,8 @@
+[package]
+name = "kardiamobile-1l-ecg-convert-pdf-to-edf"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lopdf = "0.34"
+anyhow = "1"
